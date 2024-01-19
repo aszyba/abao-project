@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZWSB_104_PROJ</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZWSB_104_PROJ</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Data przejęcia nie może być wcześniejsza niż data transportu.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZWSB_104_PROJ</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Sprawdź stany magazynowe. Nie masz wystarczającej ilości odpadów.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZWSB_104_PROJ</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Karta o numerze &amp;1 zapisana.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZWSB_104_PROJ</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Błąd zapisania karty. Skontaktuj się z konsultantem SAP.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_NROB" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <ATTRIBUTES>
+    <OBJECT>ZWSB_104_P</OBJECT>
+    <DOMLEN>NUMC</DOMLEN>
+    <PERCENTAGE>99.0</PERCENTAGE>
+   </ATTRIBUTES>
+   <TEXT>
+    <LANGU>E</LANGU>
+    <OBJECT>ZWSB_104_P</OBJECT>
+    <TXT>KPO zakres numerów</TXT>
+    <TXTSHORT>KPO zakres numerów</TXTSHORT>
+   </TEXT>
+  </asx:values>
+ </asx:abap>
+</abapGit>
